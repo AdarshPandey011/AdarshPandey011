@@ -14,15 +14,13 @@ My technical expertise includes JavaScript, Node.js, Express.js, React, Python, 
 
 In addition to my core technical skills, I am constantly learning and staying up-to-date with the latest technologies to improve my problem-solving abilities. My goal is to continuously improve my technical skills, contribute to impactful projects, and work in a collaborative environment that encourages innovation.</p>
 
-<div id="header" align="center">
-  <img src="" width="45" height="45" style="border-radius: 50;"/>
-</div>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsadarshpandey11&label=Profile%20views&color=0e75b6&style=flat" alt="Darsh Pandey" /> </p>
 
 <p align="center"> <a href="https://github.com/itsadarshpandey11"><img src="https://github-profile-trophy.vercel.app/?username=itsadarshpandey11" alt="itsadarshpandey11" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/darsh-pandey/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="darsh-pandey" height="45" width="45" /></a>
+  <a href="https://www.linkedin.com/in/AdarshPandey11/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="darsh-pandey" height="45" width="45" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
