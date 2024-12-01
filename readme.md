@@ -17,7 +17,7 @@ In addition to my core technical skills, I am constantly learning and staying up
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsadarshpandey11&label=Profile%20views&color=0e75b6&style=flat" alt="Darsh Pandey" /> </p>
 
-<p align="center"> <a href="https://github.com/itsadarshpandey11"><img src="https://github-profile-trophy.vercel.app/?username=itsadarshpandey11" alt="itsadarshpandey11" /></a> </p>
+<p align="center"> <a href="https://github.com/AdarshPandey011"><img src="https://github-profile-trophy.vercel.app/?username=AdarshPandey011" alt="AdarshPandey011" /></a> </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/AdarshPandey11/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="darsh-pandey" height="45" width="45" /></a>
@@ -31,7 +31,7 @@ In addition to my core technical skills, I am constantly learning and staying up
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.solana.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" alt="solana" width="40" height="40"/> </a>
+  <a href="https://www.solana.com/" target="_blank" rel="noreferrer"> <img src="https://www.tronweekly.com/wp-content/uploads/2024/09/CAMP-2024-05-18T205746.162-2.jpg" alt="solana" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -49,7 +49,7 @@ In addition to my core technical skills, I am constantly learning and staying up
 - 💬 I’m currently learning **Blockchain Technologies, AI, and Deep Learning**
 - 📫 You can reach me at **itsadarshpandey11@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsadarshpandey11&show_icons=true&locale=en&layout=compact" alt="Darsh Pandey" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshPandey011&show_icons=true&locale=en&layout=compact" alt="AdarshPandey011" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsadarshpandey11&show_icons=true&locale=en" alt="Darsh Pandey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AdarshPandey011&show_icons=true&locale=en" alt="AdarshPandey011" /></p>
 
